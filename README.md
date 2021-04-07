@@ -5,4 +5,5 @@
   #### Computer Science & Engineering 
   #### Vignan's Institute of Information Tehnology 
   
-  ***A data structure is a particular way of organizing data in a computer so that it can be used effectively. For example, we can store a list of items having the same data-type using the array data structure.***
+  ***A change of scenery can help everything.***
+  ![pic](https://thumbs.dreamstime.com/b/beautiful-autumn-scenery-park-beautiful-autumn-scenery-park-outdoor-photography-sunrise-light-101482086.jpg)
